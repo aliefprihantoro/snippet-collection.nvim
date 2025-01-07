@@ -274,6 +274,7 @@
         "language": [
           "javascript",
           "typescript",
+          "typescriptreact",
           "javascriptreact",
           "vue",
           "svelte"
@@ -285,7 +286,10 @@
         "path": "./snippets/javascript/jsdoc.json"
       },
       {
-        "language": "typescript",
+        "language": [
+          "typescript",
+          "typescriptreact"
+        ],
         "path": "./snippets/javascript/tsdoc.json"
       },
       {
